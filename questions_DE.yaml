@@ -10,7 +10,7 @@ Q1:
   image:
     ''
   link:
-    "[How to pronounce GDAL](https://soundcloud.com/danabauer/how-do-you-pronounce-gdal)"
+    '[How to pronounce GDAL](https://soundcloud.com/danabauer/how-do-you-pronounce-gdal#t=00:02:58)'
 
 Q2:
   question:
@@ -24,7 +24,7 @@ Q2:
   image:
     ''
   link:
-    "[Software using GDAL](https://gdal.org/software_using_gdal.html#software-using-gdal)"
+    [Software using GDAL](https://gdal.org/software_using_gdal.html#software-using-gdal)
 
 Q3:
   question:
@@ -38,7 +38,7 @@ Q3:
   image:
     ''
   link:
-    "[current release](https://gdal.org/download.html#current-releases)"
+    [current release](https://gdal.org/download.html#current-releases)
 
 Q4:
   question:
@@ -52,11 +52,11 @@ Q4:
   image:
     ''
   link:
-    "[shop GDAL T-shirt](https://teespring.com/de/shop/gdal?pid=227&cid=2664)"
+    [shop GDAL T-shirt](https://teespring.com/de/shop/gdal?pid=227&cid=2664)
 
 Q5:
   question:
-    Für was steht: "0...10...20...30...40...50...60...70...80...90...100 - done."
+    Für was steht: '0...10...20...30...40...50...60...70...80...90...100 - done.'
   answers:
     a: Gluecksgefühle
     b: Warum verwende ich GDAL eigentlich erst jetzt? 
@@ -66,5 +66,19 @@ Q5:
   image:
     ''
   link:
-    "[gdal format](https://gdal.org/drivers/raster/index.html)"
-    
+    [gdal format](https://gdal.org/drivers/raster/index.html)
+
+Q6:
+  question:
+    Wofuer steht OGR? 
+  answers:
+    a: Kurzform für einen Oger
+    b: Open Geospatial Reference
+    c: OpenGIS Simple Features Reference Implementation
+    d: Optimal Golomb Ruler
+  correct: [c]
+  image:
+    ''
+  link:
+    [What does OGR stand for?](https://gdal.org/faq.html#what-does-ogr-stand-for))
+
