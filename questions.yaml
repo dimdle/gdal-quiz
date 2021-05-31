@@ -2,7 +2,7 @@ Q1:
   question:
     HowTo convert xyz into dem GeoTiff
   answers:
-    a: gl_translate -of GTiff
+    a: gl_translate -of GTiff ...
     b: answer2
     c: answer3
     d: answer
