@@ -1,0 +1,70 @@
+Q1:
+  question:
+    Wie wurde GDAL ursprünglich von Frank Warmerdam ausgesprochen?
+  answers:
+    a: Guudle
+    b: Gedall
+    c: Djeedal
+    d: G-D-A-L
+  correct: [a]
+  image:
+    ''
+  link:
+    "[How to pronounce GDAL](https://soundcloud.com/danabauer/how-do-you-pronounce-gdal)"
+
+Q2:
+  question:
+    Wieviele Softaware Prokjekte nutzen GDAL/OGR etwa?
+  answers:
+    a: 1-10
+    b: 10-50
+    c: 50-100
+    d: '> 100'
+  correct: [d]
+  image:
+    ''
+  link:
+    "[Software using GDAL](https://gdal.org/software_using_gdal.html#software-using-gdal)"
+
+Q3:
+  question:
+    Wie lautet die aktuelle GDAL/OGR Version?
+  answers:
+    a: 2.3.7
+    b: f'{get_current_gdal()}'
+    c: 4.2.0
+    d: 1.6.8
+  correct: [b]
+  image:
+    ''
+  link:
+    "[current release](https://gdal.org/download.html#current-releases)"
+
+Q4:
+  question:
+    Wie kann man GDAL unterstuetzen?
+  answers:
+    a: Sponsoring
+    b: Bug repports
+    c: Kauf ein tolles T-Shirts
+    d: Spread the word
+  correct: [a, b, c, d]
+  image:
+    ''
+  link:
+    "[shop GDAL T-shirt](https://teespring.com/de/shop/gdal?pid=227&cid=2664)"
+
+Q5:
+  question:
+    Für was steht: "0...10...20...30...40...50...60...70...80...90...100 - done."
+  answers:
+    a: Gluecksgefühle
+    b: Warum verwende ich GDAL eigentlich erst jetzt? 
+    c: Konvertierung durchgeführt und abgeschlossen.
+    d: Warum habe ich Jahre damit verschwendet GDAL nicht in der Kommandozeile zu verwenden? 
+  correct: [a, b, c, d]
+  image:
+    ''
+  link:
+    "[gdal format](https://gdal.org/drivers/raster/index.html)"
+    
