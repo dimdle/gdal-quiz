@@ -7,6 +7,8 @@ Q1:
     c: answer3
     d: answer
   correct: a
+  image:
+    'xyz1.png'
   link:
     "[gdal_translate](https://gdal.org/programs/gdal_translate.html)"
 
@@ -19,8 +21,10 @@ Q2:
     c: ESRI Shapefile
     d: format3
   correct: a
+  image:
+    'xyz2.png'
   link:
-    "[gdal format](https://gdal.org/drivers/raster/index.html)"
+    "[gdal format](link_to_gdal)"
 
 Q3:
   question:
@@ -31,6 +35,8 @@ Q3:
     c: lemon
     d: tobbi
   correct: c
+  image:
+    'xyz3.png'
   link:
     "[gdal format](https://gdal.org/drivers/raster/index.html)"
 
