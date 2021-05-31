@@ -1,0 +1,36 @@
+Q1:
+  question:
+    HowTo convert xyz into dem GeoTiff
+  answers:
+    a: gl_translate -of GTiff
+    b: answer2
+    c: answer3
+    d: answer
+  correct: a
+  link:
+    "[gdal_translate](https://gdal.org/programs/gdal_translate.html)"
+
+Q2:
+  question:
+    Which Format is not (yet) supportes in GDAL
+  answers:
+    a: format1
+    b: .grd
+    c: ESRI Shapefile
+    d: format3
+  correct: a
+  link:
+    "[gdal format](https://gdal.org/drivers/raster/index.html)"
+
+Q3:
+  question:
+    another funny question?
+  answers:
+    a: sunny
+    b: robbi
+    c: lemon
+    d: tobbi
+  correct: c
+  link:
+    "[gdal format](https://gdal.org/drivers/raster/index.html)"
+
